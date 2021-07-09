@@ -364,6 +364,7 @@ desktop.ini
 
 # College Submission files
 *.pdf
+*.png
 WT_Lab_11_codes_output.docx
 
 # JAVA gitignore from GitHub
