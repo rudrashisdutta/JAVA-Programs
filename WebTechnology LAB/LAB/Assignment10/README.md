@@ -2,20 +2,20 @@
 ***  
 ## ```Questions```  
 
-###### Question1: [```Answer1```](Q1.java)
+###### Question1: [```Answer1```](q1.java)
     ✨ Write a program in java that receives a full name as parameter and prints on the console by adding a substring in between as follows:
         Example: Input: Pratik Dash Output: Pratik Kumar Dash
-###### Question2: [```Answer2```](Q2.java)
+###### Question2: [```Answer2```](q2.java)
     ✨ Write a program in java to enter two strings, then concatenate and display them. Also split that resultant string into 4 substrings.
-###### Question3: [```Answer3```](Q3.java)
+###### Question3: [```Answer3```](q3.java)
     ✨ Write a program in java to perform following operations on user entered strings –
         i) Change the case of the string
         ii) Reverse the string
         iii) Compare two strings
         iv) Insert one string into another string
-###### Question4: [```Answer4```](Q4.java)
+###### Question4: [```Answer4```](q4.java)
     ✨Let there are two student names as Mayank Ranjan Padhi and Ahmed Asmit Patel. Design and implement a Java program that will exchange the last name of the two students in such a way that the new names are going to be: Mayank Ranjan Patel and Ahmed Asmit Padhi.
-###### Question5: [```Answer5```](Q5.java)
+###### Question5: [```Answer5```](q5.java)
     ✨ In an online application, a university would like to validate the university seat number (USN) entered by its student.
         Example: A sample USN looks like: 1DS09CS010
         
