@@ -362,9 +362,9 @@ desktop.ini
 # My personalised Bin Folder
 .xbin/
 
-# PDF files (submissions for college)
+# College Submission files
 *.pdf
-
+WT_Lab_11_codes_output.docx
 
 # JAVA gitignore from GitHub
 # Compiled class file
