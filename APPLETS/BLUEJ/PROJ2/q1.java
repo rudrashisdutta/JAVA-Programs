@@ -1,3 +1,5 @@
+package APPLETS.BLUEJ.PROJ2;
+
 import java.awt.*; 
 import java.applet.*; 
 public class q1 extends Applet 
